@@ -17,6 +17,7 @@ At the start of this chapter you saw that git reset will unstage files that you 
 
 
 > git reset HEAD path/to/file
+
 > git checkout -- path/to/file
 
 
